@@ -1,6 +1,6 @@
 // RasterizerIII.cpp : Defines the entry point for the application.
 //
-
+//This is for Github test
 #include "stdafx.h"
 #include "RasterizerIII.h"
 #include "Camera.h"
