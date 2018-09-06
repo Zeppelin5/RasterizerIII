@@ -1,4 +1,4 @@
-﻿Build started 2018/8/15 15:33:56.
+﻿Build started 2018/8/20 19:01:18.
      1>Project "E:\VS2013\Projects2013\beifen\07311153可用版本自写版本\RasterizerIII\RasterizerIII\RasterizerIII.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RasterizerIII.cpp
@@ -36,4 +36,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.22
+Time Elapsed 00:00:01.31
